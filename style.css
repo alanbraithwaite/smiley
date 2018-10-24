@@ -2,8 +2,13 @@
   background-color: blue;
 }
 
+h1{
+  text-align: center;
+}
 
-
+h2{
+  text-align: center;
+}
 .red{
   background-color: red;
 }
@@ -13,7 +18,9 @@
   height: 100px;
 }
 
-.smiley{
-background-color: blueviolet;
-border-radius: 80%;
+.far fa-smile{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
